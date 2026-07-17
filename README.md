@@ -25,8 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Sumukh-161/leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Sumukh-161/leetcode/tree/master/0213-house-robber-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Sumukh-161/leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Sumukh-161/leetcode/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
