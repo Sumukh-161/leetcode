@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sumukh-161/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Sumukh-161/leetcode/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sumukh-161/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Sumukh-161/leetcode/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
 | ------- |
