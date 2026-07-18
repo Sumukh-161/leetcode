@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Sumukh-161/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sumukh-161/leetcode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Sumukh-161/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sumukh-161/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sumukh-161/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
