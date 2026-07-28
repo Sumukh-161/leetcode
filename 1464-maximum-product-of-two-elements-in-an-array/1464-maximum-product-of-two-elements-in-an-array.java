@@ -7,7 +7,7 @@ class Solution {
             slarge = large;
             large = nums[i];
             }
-            else if(nums[i] > slarge && nums[i] < large){
+            else if(nums[i] > slarge && nums[i] <= large){
                 slarge = nums[i];
             }
         }
