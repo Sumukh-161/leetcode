@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sumukh-161/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumukh-161/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumukh-161/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Sumukh-161/leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Sumukh-161/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sumukh-161/leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Sumukh-161/leetcode/tree/master/0541-reverse-string-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sumukh-161/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sumukh-161/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumukh-161/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumukh-161/leetcode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/Sumukh-161/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sumukh-161/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sumukh-161/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sumukh-161/leetcode/tree/master/0238-product-of-array-except-self) |
