@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumukh-161/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumukh-161/leetcode/tree/master/0015-3sum) |
+| [0162-find-peak-element](https://github.com/Sumukh-161/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Sumukh-161/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sumukh-161/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sumukh-161/leetcode/tree/master/0213-house-robber-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Sumukh-161/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumukh-161/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
