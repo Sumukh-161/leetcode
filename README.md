@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sumukh-161/leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Sumukh-161/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sumukh-161/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumukh-161/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-161/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sumukh-161/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumukh-161/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-161/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumukh-161/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumukh-161/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
