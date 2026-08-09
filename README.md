@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sumukh-161/leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Sumukh-161/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sumukh-161/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/Sumukh-161/leetcode/tree/master/0686-repeated-string-match) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumukh-161/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumukh-161/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sumukh-161/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumukh-161/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Sumukh-161/leetcode/tree/master/0686-repeated-string-match) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumukh-161/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Sumukh-161/leetcode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Sumukh-161/leetcode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Sumukh-161/leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
