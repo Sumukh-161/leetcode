@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sumukh-161/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumukh-161/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumukh-161/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Sumukh-161/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumukh-161/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sumukh-161/leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Sumukh-161/leetcode/tree/master/0392-is-subsequence) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumukh-161/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumukh-161/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Sumukh-161/leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sumukh-161/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Sumukh-161/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sumukh-161/leetcode/tree/master/0198-house-robber) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumukh-161/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Sumukh-161/leetcode/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumukh-161/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
