@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Sumukh-161/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sumukh-161/leetcode/tree/master/0231-power-of-two) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sumukh-161/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumukh-161/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sumukh-161/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
