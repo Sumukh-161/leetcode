@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sumukh-161/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sumukh-161/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sumukh-161/leetcode/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Sumukh-161/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sumukh-161/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumukh-161/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumukh-161/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Sumukh-161/leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Sumukh-161/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sumukh-161/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumukh-161/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sumukh-161/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumukh-161/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Enumeration
 |  |
