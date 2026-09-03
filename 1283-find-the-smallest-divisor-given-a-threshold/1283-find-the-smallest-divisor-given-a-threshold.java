@@ -1,6 +1,6 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
-        int low = 1;
+        int low = 0;
         int high = 0;
         for(int n : nums) high = Math.max(high,n);
         int ans = -1;
