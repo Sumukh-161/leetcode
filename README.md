@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sumukh-161/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/Sumukh-161/leetcode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/Sumukh-161/leetcode/tree/master/0896-monotonic-array) |
+| [1051-height-checker](https://github.com/Sumukh-161/leetcode/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumukh-161/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumukh-161/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Sumukh-161/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sumukh-161/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sumukh-161/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumukh-161/leetcode/tree/master/0088-merge-sorted-array) |
+| [1051-height-checker](https://github.com/Sumukh-161/leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumukh-161/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sumukh-161/leetcode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Sumukh-161/leetcode/tree/master/1051-height-checker) |
 ## Linked List
 |  |
 | ------- |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sumukh-161/leetcode/tree/master/0141-linked-list-cycle) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Sumukh-161/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
